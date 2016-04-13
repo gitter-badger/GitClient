@@ -1,4 +1,6 @@
 # GitClient
+
+[![Join the chat at https://gitter.im/arimhan/GitClient](https://badges.gitter.im/arimhan/GitClient.svg)](https://gitter.im/arimhan/GitClient?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 GitClient is a client for git/github that will allow cloning/push/pull.
 Ity will also add some functionality for github like browsing the repository. 
 ## Installation
