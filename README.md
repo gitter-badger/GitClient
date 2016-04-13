@@ -1,7 +1,6 @@
-<snippet>
-  <content><![CDATA[
-# ${1:Project Name}
-TODO: Write a project description
+# GitClient
+GitClient is a client for git/github that will allow cloning/push/pull.
+Ity will also add some functionality for github like browsing the repository. 
 ## Installation
 TODO: Describe the installation process
 ## Usage
@@ -18,6 +17,4 @@ TODO: Write history
 TODO: Write credits
 ## License
 TODO: Write license
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
+
